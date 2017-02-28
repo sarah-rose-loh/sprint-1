@@ -6,7 +6,7 @@ The command line is where you type in instructions telling your computer what yo
 3. cd .. is a direction to move to the previous directory you were in
 4. mkdir = make a new directory
 5. rm -r = remove everything in a directory
-6. rm = remove a file?
+6. rm = remove a file
 7. touch = create a file
 8. open = open a file
 9. mv = rename a file
